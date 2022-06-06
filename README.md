@@ -4,4 +4,4 @@ This repository covers the materials for the Data and AI Microsoft challenge.
 
 ## Modules:
 
-### Understand the evolving world of data
+### [Understand the evolving world of data](https://github.com/andrea-liliana/Data-and-AI-Challenge/blob/main/UnderstandData.md)
