@@ -6,6 +6,8 @@ This repository covers the materials for the Data and AI Microsoft challenge.
 
 ### [Understand the evolving world of data](https://github.com/andrea-liliana/Data-and-AI-Challenge/blob/main/UnderstandData.md)
 
+### [Introduction to Azure Synapse Analytics]
+
 ### [Get started building with Power BI]()
 
 ### [Clean, transform, and load data in Power BI]()
