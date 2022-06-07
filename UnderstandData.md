@@ -22,3 +22,18 @@ Data systems must be accurate, highly secure, and constantly available and must 
 Lift and shift - Migrate from physical or virtualized on-premises servers to Azure Virtual Machines. 
 Benefits: higher availability, lower operational costs, and the ability to transfer workloads from one datacenter to another. 
 Disadvantage: the application can't take advantage of the many features available within Azure.
+
+## Data Process
+
+Extract, transform, and load (ETL).
+
+The transformation step may take a long time. It is the process used for ingesting data from an on-premises database to an on-premises data warehouse.
+
+An alternative approach is extract, load, and transform (ELT). The data is extracted and loaded into a large data repository, such as Azure Cosmos DB or Azure Data Lake Storage. This process is used for ingesting data from an on-premises database into the cloud.
+
+## Evaluation notes 
+
+Duplicating customer content for redundancy and meeting service-level agreements (SLAs) in Azure meets which cloud technical requirement? High availability, it  duplicates customer content for redundancy and meets SLAs in Azure.
+
+
+
