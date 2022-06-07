@@ -8,7 +8,7 @@ This repository covers the materials for the Data and AI Microsoft challenge.
 
 ### [Introduction to Azure Synapse Analytics](https://github.com/andrea-liliana/Data-and-AI-Challenge/blob/main/SynapseAnalytics.md)
 
-### [Survey the Components of Azure Synapse Analytics]
+### [Survey the Components of Azure Synapse Analytics](https://github.com/andrea-liliana/Data-and-AI-Challenge/blob/main/ComponentsSynapse.md)
 
 ### [Get started building with Power BI]()
 
